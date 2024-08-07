@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "hello there",
+      "answer": "hi"
+    },
+    {
+      "question": "tell me your name",
+      "answer": "Veeeran Bot"
+    },
+    {
+      "question": "what is the largest desert",
+      "answer": "The Sahara Desert"
+    },
+    {
+      "question": "what is capital of india",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "hi",
+      "answer": "hello there"
+    },
+    {
+      "question": "who is the GOAT of football?",
+      "answer": "Lionel Andres Messi Cucctini"
+    }
+  ]
+}
